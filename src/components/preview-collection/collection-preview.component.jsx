@@ -12,7 +12,6 @@ const CollectionPreview = ({ title, items }) => (
                     <div key={item.id}>{item.name}</div>
                 ))
             }
-            hello
         </div>
     </div>
 ); 
